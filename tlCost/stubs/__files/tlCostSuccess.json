@@ -1,0 +1,14 @@
+{
+	"confidence": {
+		"rangeLower": 2422,
+		"rangeUpper": 2712,
+		"score": 5
+	},
+	"rates": [
+		{
+			"currencyCode": "USD",
+			"estimate": 2563,
+			"pickupDate": "2021-08-24"
+		}
+	]
+}
