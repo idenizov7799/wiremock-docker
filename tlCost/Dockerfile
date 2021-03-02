@@ -1,3 +1,3 @@
-FROM idenizov7799/wiremock-docker
+FROM rodolpheche/wiremock
 
 COPY stubs /home/wiremock
